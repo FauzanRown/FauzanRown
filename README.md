@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ### Language Uses
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs,tailwind)](https://skillicons.dev)
+
+### Design Tools
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
