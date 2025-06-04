@@ -1,5 +1,3 @@
-## Hi there, Im Fauzan Anwar 👋
-
 ![FauzanAnwar](img/github-header-image.png)
 
 <!--
