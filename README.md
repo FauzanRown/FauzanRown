@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ### Design Tools
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
+[![Fauzan GitHub stats](https://github-readme-stats.vercel.app/api?username=FauzanRown&show_icons=true&theme=merko)](https://github.com/FauzanRown/github-readme-stats)
