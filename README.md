@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs,tailwind,bootstrap)](https://skillicons.dev)
 
-### Design Tools
+### Tools Usages
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,github,git)](https://skillicons.dev)
 
 [![Fauzan GitHub stats](https://github-readme-stats.vercel.app/api?username=FauzanRown&show_icons=true&theme=merko)](https://github.com/FauzanRown/github-readme-stats)
 
