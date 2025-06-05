@@ -1,4 +1,4 @@
-![FauzanAnwar](img/newpict.png)
+![FauzanAnwar](img/baru.png)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/FauzanRown/count.svg?"  />
