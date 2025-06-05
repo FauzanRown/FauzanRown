@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![Fauzan GitHub stats](https://github-readme-stats.vercel.app/api?username=FauzanRown&show_icons=true&theme=merko)](https://github.com/FauzanRown/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FauzanRown&layout=compact&theme=merko)>>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FauzanRown&layout=compact&theme=merko)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FauzanRown/FauzanRown/output/pacman-contribution-graph-dark.svg">
