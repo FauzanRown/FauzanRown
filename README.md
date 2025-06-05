@@ -1,5 +1,9 @@
 ![FauzanAnwar](img/github-header-image.png)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FauzanRown/count.svg?"  />
+</div>
+
 <!--
 **FauzanRown/FauzanRown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
