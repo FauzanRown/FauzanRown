@@ -1,4 +1,4 @@
-![FauzanAnwar](img/github-header-image.png)
+![FauzanAnwar](img/newpict.png)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/FauzanRown/count.svg?"  />
